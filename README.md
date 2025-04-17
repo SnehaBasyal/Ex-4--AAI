@@ -1,4 +1,4 @@
-<H3>NAME: Sneha BasyaL M</H3>
+<H3>NAME: Sneha Basyal M</H3>
 <H3>REGISTER NO: 212222240101</H3>
 <H3>EX. NO.4</H3>
 <H3>DATE:</H3>
